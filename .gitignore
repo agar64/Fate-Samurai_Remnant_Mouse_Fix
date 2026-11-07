@@ -1,0 +1,19 @@
+# Analysis-only artifacts derived from proprietary game binaries. Never commit.
+work/
+experiments/captures/
+*.gpr
+*.rep/
+*.exe
+*.dll
+*.asi
+*.pdb
+*.obj
+*.lib
+*.exp
+*.ilk
+build/
+FSR Resolution Fix/
+__pycache__/
+tools/
+docs/
+fsr_mouse_fix.ini
